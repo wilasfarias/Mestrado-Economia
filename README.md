@@ -1,11 +1,11 @@
 ### Mestrado-Economia
-$$Script da Defesa de Mestrado Profissional em Economia (PROPEC) pela Universidade Federal de Sergipe
+Script da Defesa de Mestrado Profissional em Economia (PROPEC) pela Universidade Federal de Sergipe
 
 #### Programa: PROGRAMA DE PÓS-GRADUAÇÃO EM ECONOMIA
 #### Instituição: UNIVERSIDADE FEDERAL DE SERGIPE
 #### Título: COMÉRCIO INTRAINDUSTRIAL BRASILEIRO: Uma Aplicação do Índice de Grubel-Lloyd em Series Temporais para os Estados Brasileiros no Período de 2000-2020
 Cidade: São Critóvão
-Ano: 2022
+year: 2022
 Autor: JOSÉ WILAS ALVES DE FARIAS
 
 Dissertação apresentada ao Programa de Mestrado Profissional em Economia da Universidade Federal de Sergipe como parte dos requisitos necessários à obtenção do Título de Mestre em Economia.
