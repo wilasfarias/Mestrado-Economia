@@ -4,8 +4,11 @@ Script da Defesa de Mestrado Profissional em Economia (PROPEC) pela Universidade
 #### Programa: PROGRAMA DE PÓS-GRADUAÇÃO EM ECONOMIA
 #### Instituição: UNIVERSIDADE FEDERAL DE SERGIPE
 #### Título: COMÉRCIO INTRAINDUSTRIAL BRASILEIRO: Uma Aplicação do Índice de Grubel-Lloyd em Series Temporais para os Estados Brasileiros no Período de 2000-2020
+
 Cidade: São Critóvão
+
 Ano: 2022
+
 Autor: JOSÉ WILAS ALVES DE FARIAS
 
 Dissertação apresentada ao Programa de Mestrado Profissional em Economia da Universidade Federal de Sergipe como parte dos requisitos necessários à obtenção do Título de Mestre em Economia.
@@ -36,6 +39,6 @@ início da série temporal. Apresentando assim, aumento de dependência internac
 intensivos em tecnologia devido a especialização regressiva e redução na competitividade
 internacional.
 
-Palavras-chaves: Padrão de Comércio, Comércio Intraindustrial, Balança Comercial.
+#Palavras-chaves:# Padrão de Comércio, Comércio Intraindustrial, Balança Comercial.
 
 
