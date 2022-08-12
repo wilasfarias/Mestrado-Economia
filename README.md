@@ -1,5 +1,5 @@
 ### Mestrado-Economia
-#Script da Defesa de Mestrado Profissional em Economia (PROPEC) pela Universidade Federal de Sergipe#
+# Script da Defesa de Mestrado Profissional em Economia (PROPEC) pela Universidade Federal de Sergipe #
 
 #### Programa: PROGRAMA DE PÓS-GRADUAÇÃO EM ECONOMIA
 #### Instituição: UNIVERSIDADE FEDERAL DE SERGIPE
