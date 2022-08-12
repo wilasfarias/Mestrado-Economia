@@ -8,10 +8,12 @@ Cidade: São Critóvão
 Ano: 2022
 Autor: JOSÉ WILAS ALVES DE FARIAS
 
-Dissertação apresentada ao Programa de Mestrado Profissional em Economia da Universidade Federal de Sergipe
-como parte dos requisitos necessários à obtenção do Título de Mestre em Economia.
+Dissertação apresentada ao Programa de Mestrado Profissional em Economia da Universidade Federal de Sergipe como parte dos requisitos necessários à obtenção do Título de Mestre em Economia.
+
 Área de concentração: Desenvolvimento Regional
+
 Orientador: Prof. Dr. Kleber Fernandes de Oliveira
+
 Coorientador: Dr. Marcos Vinícius Nascimento Gonzalez Castaneda
 
 Banca:
