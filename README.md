@@ -39,6 +39,6 @@ início da série temporal. Apresentando assim, aumento de dependência internac
 intensivos em tecnologia devido a especialização regressiva e redução na competitividade
 internacional.
 
-#Palavras-chaves:# Padrão de Comércio, Comércio Intraindustrial, Balança Comercial.
+Palavras-chaves: Padrão de Comércio, Comércio Intraindustrial, Balança Comercial.
 
 
