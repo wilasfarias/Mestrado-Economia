@@ -19,7 +19,7 @@ Orientador: Prof. Dr. Kleber Fernandes de Oliveira
 
 Coorientador: Dr. Marcos Vinícius Nascimento Gonzalez Castaneda
 
-##### Banca:####
+#### Banca:
 
 Presidente: Prof. Dr. Kleber Fernandes de Oliveira - Universidade Federal de Sergipe (UFS)
 Componente interno: Profª. Drª. Denisia Araujo das Chagas - Universidade Federal de Sergipe (UFS)
