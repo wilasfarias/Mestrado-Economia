@@ -1,9 +1,9 @@
 # Mestrado-Economia
 Script da Defesa de Mestrado Profissional em Economia (PROPEC) pela Universidade Federal de Sergipe
 
-Programa: PROGRAMA DE PÓS-GRADUAÇÃO EM ECONOMIA
-Instituição: UNIVERSIDADE FEDERAL DE SERGIPE
-Título: COMÉRCIO INTRAINDUSTRIAL BRASILEIRO: Uma Aplicação do 
+### Programa: PROGRAMA DE PÓS-GRADUAÇÃO EM ECONOMIA
+### Instituição: UNIVERSIDADE FEDERAL DE SERGIPE
+### Título: COMÉRCIO INTRAINDUSTRIAL BRASILEIRO: Uma Aplicação do 
 Índice de Grubel-Lloyd em Series Temporais para os Estados Brasileiros no 
 Período de 2000-2020
 Cidade: São Critóvão
